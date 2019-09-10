@@ -1,0 +1,2 @@
+idea 导入格式需要选择eclispe
+两个项目都需要导入WebContent\WEB-INF\lib下的jar包
